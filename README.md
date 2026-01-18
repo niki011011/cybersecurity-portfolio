@@ -52,3 +52,10 @@ Since joining the Master of Cyber Security program at UM, my perspective has shi
 **Areas for Improvement:**
 * **Challenge:** I am currently working on improving my scripting skills in Python (WQE7002), as I find automating security tasks challenging.
 * **Plan:** I plan to dedicate more time to coding practice and completing extra lab exercises to build confidence in writing custom security tools.
+## 6. Career Objective
+Upon graduation, I aspire to launch my career as a **Junior SOC Analyst** or **Penetration Tester**. I am eager to apply the rigorous academic training I have received at the University of Malaya to real-world security challenges. I am currently open to **internship opportunities** that allow for further learning and mentorship.
+
+## 7. Contact Information
+* **LinkedIn:** [(https://www.linkedin.com/in/nan-10699b3a6)]
+* **GitHub:** [(https://github.com/niki011011)]
+* **Email:** [25058996@siswa-old.um.edu.my]
