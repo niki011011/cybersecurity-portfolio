@@ -45,3 +45,10 @@ As part of my Master's curriculum, I am developing proficiency in the following 
     2.  Used packet filtering to isolate TCP streams.
     3.  Inspected packet payloads to identify clear-text credentials.
 * **Outcome:** Gained a practical understanding of why encryption (TLS/SSL) is critical by observing how easily clear-text data can be intercepted.
+## 5. Learning Journey
+**Reflections:**
+Since joining the Master of Cyber Security program at UM, my perspective has shifted from just "using" computers to understanding the underlying risks in every connection. The course **WQE7001** has helped me structure my professional identity, while technical modules like **WQE7011** have challenged me to think like an attacker to better understand defense.
+
+**Areas for Improvement:**
+* **Challenge:** I am currently working on improving my scripting skills in Python (WQE7002), as I find automating security tasks challenging.
+* **Plan:** I plan to dedicate more time to coding practice and completing extra lab exercises to build confidence in writing custom security tools.
