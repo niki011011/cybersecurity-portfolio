@@ -1,4 +1,4 @@
-# cybersecurity-portfolio
+# My Cybersecurity Professional Portfolio
 ## 1. About Me
 Hello! I am a postgraduate student currently reading for the **Master of Cyber Security** .
 
